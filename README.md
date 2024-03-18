@@ -9,10 +9,10 @@
   <h1>Main HTML File</h1>
   
   <!-- Include the first HTML file -->
-<a href="WhatsApp Image 2024-03-18 at 17.58.39_41b6268a.jpg" >Image 1</a>  
+<a href="Correct.jpg" >Image 1</a>  
   <br>
   
   <!-- Include the second HTML file -->
-  <a href="WhatsApp Image 2024-03-18 at 18.02.05_7a1f5171.jpg">Image 2</a>
+  <a href="Wrong.jpg">Image 2</a>
 </body>
 </html>
